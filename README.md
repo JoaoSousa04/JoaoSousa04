@@ -1,9 +1,9 @@
-# 👋 Hi, I'm João Sousa  
+# 🌐 Hello, I'm João Sousa  
 
 ## 🚀 Web Developer | Systems Implementation Analyst | Java Focus  
 
 🎓 Technical Degree in Web Informatics  
-🎓 Currently pursuing a Technology Degree in Internet Systems  
+🎓 Currently pursuing a Technology Degree in Internet Systems on IFSP - Araraquara 
 
 I am a passionate developer focused on building scalable and efficient software solutions.  
 With experience in web development and enterprise system implementation, I bridge business needs and technology to deliver impactful results.
@@ -18,6 +18,7 @@ With experience in web development and enterprise system implementation, I bridg
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+![C/C++](https://img.shields.io/badge/C/c++-1572B6?style=for-the-badge&logo=C++&logoColor=white)  
 
 ---
 
@@ -46,9 +47,4 @@ With experience in web development and enterprise system implementation, I bridg
 ## 🤝 Let's Connect  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joao-sousa-a15506299)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sousa.joaop04@gmail.com)
-
-
----
-
-# ⚡ Always Learning. Always Building. Always Improving.
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sousa.joao@aluno.ifsp.edu.br)
